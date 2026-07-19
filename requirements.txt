@@ -1,0 +1,8 @@
+streamlit
+requests
+feedparser
+beautifulsoup4
+lxml
+newspaper3k
+google-genai>=1.0.0
+python-dateutil
